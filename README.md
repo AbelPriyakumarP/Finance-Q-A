@@ -14,6 +14,7 @@ The system combines the power of:
 Users can upload finance-related text documents, convert them into vector embeddings, and run natural language queries to receive informed, context-aware answers.
 
 ---
+## 🗺️ System Architecture
 
 ![image alt](https://github.com/AbelPriyakumarP/Finance-Q-A/blob/main/architecture.png?raw=true)
 
