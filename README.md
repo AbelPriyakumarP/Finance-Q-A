@@ -15,6 +15,10 @@ Users can upload finance-related text documents, convert them into vector embedd
 
 ---
 
+![image alt](https://github.com/AbelPriyakumarP/Finance-Q-A/blob/main/architecture.png?raw=true)
+
+---
+
 ## 🛠️ Features
 
 - 📄 Document ingestion from local `.txt` files or URLs
