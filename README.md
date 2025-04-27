@@ -50,6 +50,11 @@ pip install -r requirements.txt
 ├── README.md                  # Project documentation file
 └── requirements.txt           # Python dependencies list
 
+## 🗺️ System Architecture
+
+![RAG Architecture](![ChatGPT Image Apr 27, 2025, 09_10_29 PM](https://github.com/user-attachments/assets/578e61b5-291d-4c7b-83a8-e3b2e35e91f7)
+)
+
 git clone https://github.com/yourname/finance-qna-rag.git
 cd finance-qna-rag
 
